@@ -1,6 +1,7 @@
 **# Planet-Renewed**
 ---
 **## Task 1 ( C Programming )**
+
 *1. Hello Gru*
 
 A C/C++ program that prints the string ‘GRU’ in the output terminal.
@@ -25,6 +26,7 @@ A C/C++ program that takes two sensor measurements (just two arrays) and generat
 
 ---
 **## Task 2 ( Hardware )**
+
 *1. Lightning The Dark*
 
 • Design a circuit that takes 220V AC as input and the output is 5V DC and connects LED to the output (Hint: firstly, you need to step down the AC, then you need to convert AC to DC, and lastly connect the load).
@@ -47,9 +49,32 @@ If you have a simple circuit that drive high power 12V LED with current limiting
 
 ---
 **## Task 3 ( Embedded )**
-1. 
-2.
+
+*1. Signal To Engage*
+
+• Write 2 Arduino codes, one that interface with two push buttons,
+and the other one communicates with the first one by receiving
+data about buttons state, using I2C communication protocol.
+
+*2. Cookiebot*
+
+You have the cookie bot with four ultrasnoic that
+measure the distance each up to 8m positioned as
+shown. Specifically, positioned at (0°, 90°, 180°, 270°) from
+the Cookie headings.
+
+The Shrink ray champer is (5m x 6m), and we
+need to localize the position of the cookie bot on
+that champer (localization in this problem
+means to get (x,y) of the robot with respect to
+the room).
+
+• Assume the cookie bot only moves in forward
+or lateral (there is no rotation).
+
+• Assume the origin of the chamber on the left-down corner
+
 ---
 **## Task 4 ( Python & ML )**
-1.
-2.
+*1.*
+*2.*
