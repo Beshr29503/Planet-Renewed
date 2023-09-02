@@ -1,3 +1,4 @@
+---
 **# Planet-Renewed**
 ---
 **## Task 1 ( C Programming )**
@@ -76,5 +77,31 @@ or lateral (there is no rotation).
 
 ---
 **## Task 4 ( Python & ML )**
-*1.*
-*2.*
+
+*1. Sky Clash*
+
+Implement a Python program that simulates air battlefield
+using OOP Methods:
+
+- Game has multiple rounds and it ends when one of the villains
+reaches 0 Health.
+
+- During one round each villain could use a weapon to damage
+the other or use a shield to protect himself from the other’s
+weapons.
+
+*2. Shrinkage Model*
+
+1-Create Linear Regression Model, and train
+this model on the give dataset:
+
+- The knob of the Gun has a range from [0
+MW, 300MW]
+
+- Assume that shrinkage does not depend
+on the volume of the target object.
+
+2-If Gru needs to shrink the moon with a percentage 85% where
+should he adjust the knob?
+
+---
