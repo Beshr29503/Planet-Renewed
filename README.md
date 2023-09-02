@@ -1,4 +1,4 @@
-**# Planet-Renewed**
+# Planet-Renewed
 ---
 **## Task 1 ( C Programming )**
 
