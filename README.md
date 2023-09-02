@@ -4,13 +4,16 @@
 1. Hello Gru
 
 A C/C++ program that prints the string ‘GRU’ in the output terminal.
-3. Counting Down
+
+2. Counting Down
 
 A C/C++ program that takes the number to start the countdown from as input and prints the countdown text starting from that number.
-5. Task Manager
+
+3. Task Manager
 
 A C/C++ program that allows users to add, view, and remove tasks, each task has an id/index and a description. The id is a positive unique integer.
-7. Kalman Missile
+
+4. Kalman Missile
 
 A C/C++ program that takes two sensor measurements (just two arrays) and generates only one new array measurement with any averaging method, such as Kalman Filter.
 
