@@ -1,6 +1,6 @@
 # Planet-Renewed
 ---
-**## Task 1 ( C Programming )**
+## **Task 1 ( C Programming )**
 
 *1. Hello Gru*
 
@@ -25,7 +25,7 @@ A C/C++ program that takes two sensor measurements (just two arrays) and generat
 • Assume two sensors have the same sample frequency, (that means the two arrays have the same number of elements)
 
 ---
-**## Task 2 ( Hardware )**
+## **Task 2 ( Hardware )**
 
 *1. Lightning The Dark*
 
@@ -48,7 +48,7 @@ If you have a simple circuit that drive high power 12V LED with current limiting
 • The current limiting resistor is a high-power resistor.
 
 ---
-**## Task 3 ( Embedded )**
+## **Task 3 ( Embedded )**
 
 *1. Signal To Engage*
 
@@ -75,7 +75,7 @@ or lateral (there is no rotation).
 • Assume the origin of the chamber on the left-down corner
 
 ---
-**## Task 4 ( Python & ML )**
+## **Task 4 ( Python & ML )**
 
 *1. Sky Clash*
 
