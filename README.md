@@ -15,8 +15,15 @@ A C/C++ program that takes two sensor measurements (just two arrays) and generat
 ---
 **## Task 2 ( Hardware )**
 1. Lightning The Dark
-2. Air Extraction To Fan
-3. Box Of Shame
+• Design a circuit that takes 220V AC as input and the output is 5V DC and connects LED to the output (Hint: firstly, you need to step down the AC, then you need to convert AC to DC, and lastly connect the load).
+• If the input power budget of your power supply is 1440W, and you use a current limiting resistor with each LED 330 ohm. Estimate how many LEDs could be put in parallel that is suitable for this power budget.
+3. Air Extraction To Fan
+• Design a simple H-bridge driver to control the direction of the DC motor using transistors.
+5. Box Of Shame
+If you have a simple circuit that drive high power 12V LED with current limiting resistor 3.3ohm and need to drive them with 80C liPo (lithium Polymer) batteries that have 5200mAh charge, assume that girls stay inside the box of shame for about 5 hours. How many batteries are connected in parallel to light up the LED for more than 5 hours
+• Assume all batteries have equal voltage
+• Assume the LED is ideal (deal with it as a short circuit in forward bias)
+• The current limiting resistor is a high-power resistor.
 ---
 **## Task 3 ( Embedded )**
 1. 
