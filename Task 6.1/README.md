@@ -95,6 +95,7 @@ void setup() {
 - Multiply `yaw_angle_prev` by change in time to obtain Yaw Angle in degrees.
 - Update `yaw_angle_new` and increment it by `yaw_angle_prev` to perform integration.
 - Display the Yaw angle on the Serial Monitor using `Serial.print` and `Serial.println`.
+- Apply Delay by 100 milliseconds before repeating the loop.
 ```
 void loop() {
   // Updating Time
@@ -118,3 +119,4 @@ void loop() {
 ```
 ---
 # Question
+If sensor is surrounded by a noisy environment `Low Pass Filter` should be used, according to datasheet, sensor supports I2C communication up to 400 KHz so the recommended cutoff frequency is `400 / sqrt(2) = 282.8 KHz`.
